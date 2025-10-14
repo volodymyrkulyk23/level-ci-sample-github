@@ -23,10 +23,8 @@ jobs:
         run: npm ci
         env:
           CLOUDSMITH_TOKEN: ${{ secrets.CLOUDSMITH_TOKEN }}
-      - name: Install Playwright browsers
-        run: npx playwright install --with-deps chromium
       - name: Run Playwright tests
-        run: npm run test:playwright
+        run: npx playwright install chromium\nnpm run test:playwright
 
       - name: Level CI Accessibility Analysis
         uses: levelaccess/level-ci@dev
