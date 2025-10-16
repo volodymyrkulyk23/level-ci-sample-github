@@ -8,7 +8,6 @@ export default {
   server: "https://api.dev.userway.dev",
 } satisfies Config;
 
-
 //ngrok
 // import type { Config } from '@level-ci/cli'
 // import { ngrokConnection } from '@level-ci/ngrok'
