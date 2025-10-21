@@ -1,7 +1,8 @@
-
-    "date": "2025-10-16T15:47:47.751Z",
+{
+  "meta": {
+    "date": "2025-10-21T16:26:51.414Z",
     "type": "WEB",
-    "htmlOrigin": "../pages/root-mgtlg23s.html",
+    "htmlOrigin": "../pages/root-mh0s1jto.html",
     "device": "desktop",
     "test": [],
     "relativePath": "",
@@ -1392,9 +1393,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate",
           "dimensions": {
             "top": 106.0078125,
-            "left": -13.075325012207031,
+            "left": -13.136253356933594,
             "bottom": 685.9921875,
-            "right": 1126.924674987793,
+            "right": 1126.8637466430664,
             "width": 1140,
             "height": 579.984375
           },
@@ -1419,9 +1420,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > h1.headline",
           "dimensions": {
             "top": 154.0078125,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 298.0078125,
-            "right": 1114.924674987793,
+            "right": 1114.8637466430664,
             "width": 1116,
             "height": 144
           },
@@ -1446,9 +1447,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > h1.headline > span.home_text",
           "dimensions": {
             "top": 133.0078125,
-            "left": 143.7059326171875,
+            "left": 143.64498901367188,
             "bottom": 247.0078125,
-            "right": 485.1668701171875,
+            "right": 485.1059265136719,
             "width": 341.4609375,
             "height": 114
           },
@@ -1473,9 +1474,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > h1.headline > br",
           "dimensions": {
             "top": 148.0078125,
-            "left": 485.1668701171875,
+            "left": 485.1059265136719,
             "bottom": 232.0078125,
-            "right": 485.1668701171875,
+            "right": 485.1059265136719,
             "width": 0,
             "height": 84
           },
@@ -1500,9 +1501,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > p.para.para-light.py-3",
           "dimensions": {
             "top": 306.0078125,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 434.0078125,
-            "right": 556.924674987793,
+            "right": 556.8637466430664,
             "width": 558,
             "height": 128
           },
@@ -1527,9 +1528,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(3)",
           "dimensions": {
             "top": 434.0078125,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 496,
-            "right": 1114.924674987793,
+            "right": 1114.8637466430664,
             "width": 1116,
             "height": 61.9921875
           },
@@ -1554,9 +1555,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(3) > p.p-2",
           "dimensions": {
             "top": 434.0078125,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 496,
-            "right": 41.58873748779297,
+            "right": 41.527809143066406,
             "width": 42.6640625,
             "height": 61.9921875
           },
@@ -1581,9 +1582,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(3) > p.p-2 > i.fas.fa-laptop-house.fa-lg",
           "dimensions": {
             "top": 442.0078125,
-            "left": 6.924674987792969,
+            "left": 6.863746643066406,
             "bottom": 488,
-            "right": 33.58873748779297,
+            "right": 33.527809143066406,
             "width": 26.6640625,
             "height": 45.9921875
           },
@@ -1608,9 +1609,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(3) > p:nth-child(2)",
           "dimensions": {
             "top": 453,
-            "left": 41.58873748779297,
+            "left": 41.527809143066406,
             "bottom": 477,
-            "right": 243.04186248779297,
+            "right": 242.9809341430664,
             "width": 201.453125,
             "height": 24
           },
@@ -1635,9 +1636,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(4)",
           "dimensions": {
             "top": 496,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 557.9921875,
-            "right": 1114.924674987793,
+            "right": 1114.8637466430664,
             "width": 1116,
             "height": 61.9921875
           },
@@ -1662,9 +1663,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(4) > p.p-2",
           "dimensions": {
             "top": 496,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 557.9921875,
-            "right": 41.58873748779297,
+            "right": 41.527809143066406,
             "width": 42.6640625,
             "height": 61.9921875
           },
@@ -1689,9 +1690,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(4) > p.p-2 > i.fas.fa-wifi.fa-lg",
           "dimensions": {
             "top": 504,
-            "left": 6.924674987792969,
+            "left": 6.863746643066406,
             "bottom": 549.9921875,
-            "right": 33.58873748779297,
+            "right": 33.527809143066406,
             "width": 26.6640625,
             "height": 45.9921875
           },
@@ -1716,9 +1717,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(4) > p:nth-child(2)",
           "dimensions": {
             "top": 514.9921875,
-            "left": 41.58873748779297,
+            "left": 41.527809143066406,
             "bottom": 538.9921875,
-            "right": 243.04186248779297,
+            "right": 242.9809341430664,
             "width": 201.453125,
             "height": 24
           },
@@ -1743,9 +1744,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div.my-3",
           "dimensions": {
             "top": 573.9921875,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 621.9921875,
-            "right": 1114.924674987793,
+            "right": 1114.8637466430664,
             "width": 1116,
             "height": 48
           },
@@ -1770,9 +1771,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div.my-3 > a.btn",
           "dimensions": {
             "top": 573.9921875,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 621.9921875,
-            "right": 141.31529998779297,
+            "right": 141.2543716430664,
             "width": 142.390625,
             "height": 48
           },
@@ -2211,7 +2212,7 @@
           "elementId": "about",
           "encodedContent": [
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 7, 1, 2, 1, 10, 0, 0, 6,
-            4, 4, 7, 3, 1, 5, 7, 7, 4, 2, 1, 0, 1, 0, 3, 3
+            4, 5, 7, 3, 1, 5, 7, 7, 4, 2, 1, 0, 1, 0, 3, 4
           ],
           "fingerprint": "sig3-942153819038407",
           "pathSelector": "html > body > section:nth-child(4)",
@@ -2237,8 +2238,8 @@
           },
           "elementId": "",
           "encodedContent": [
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 7, 1, 2, 1, 10, 0, 0, 7,
-            4, 4, 7, 3, 1, 5, 7, 7, 4, 2, 1, 0, 1, 0, 3, 3
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 7, 1, 2, 1, 10, 0, 0, 6,
+            4, 4, 7, 3, 1, 5, 8, 7, 4, 2, 1, 0, 1, 0, 3, 3
           ],
           "fingerprint": "sig3-4610650237697796",
           "pathSelector": "html > body > section:nth-child(4) > div:nth-child(1)",
@@ -2265,7 +2266,7 @@
           "elementId": "",
           "encodedContent": [
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 7, 1, 2, 1, 10, 0, 0, 7,
-            4, 4, 6, 3, 1, 5, 8, 7, 5, 2, 0, 0, 1, 0, 3, 3
+            5, 4, 6, 3, 1, 5, 8, 7, 4, 2, 0, 0, 1, 0, 3, 3
           ],
           "fingerprint": "sig3-430842051515474",
           "pathSelector": "html > body > section:nth-child(4) > div:nth-child(1) > div:nth-child(1)",
@@ -2507,13 +2508,13 @@
           },
           "elementId": "",
           "encodedContent": [
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 6, 3, 2, 4, 1, 7, 0, 6, 3, 0, 5,
-            4, 0, 6, 3, 0, 2, 12, 11, 7, 0, 0, 0, 0, 0, 1, 3
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 3, 4, 2, 6, 2, 10, 0, 8, 4, 0, 3,
+            6, 0, 3, 4, 0, 2, 17, 6, 5, 0, 0, 0, 0, 0, 1, 4
           ],
           "fingerprint": "sig3-3874720646287215",
           "pathSelector": "html > body > section:nth-child(4) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2)",
           "selector": "#about > div.container > div.row.d-flex.align-items-center > div.col-lg-5.text-center.py-4.py-sm-0.aos-init",
-          "snippet": "<div class=\"col-lg-5 text-center py-4 py-sm-0 aos-init\" data-aos=\"fade-down\">...<img class=\"img-fluid\" src=\"./assets/images/about.jpg\" alt=\"about\"></div>",
+          "snippet": "<div class=\"col-lg-5 text-center py-4 py-sm-0 aos-init\" data-aos=\"fade-down\">...<img class=\"img-fluid\" src=\"./assets/images/about.jpg\"></div>",
           "srcAttr": "",
           "tag": "div",
           "type": "inapplicable",
@@ -2522,7 +2523,7 @@
         },
         {
           "rule": { "id": "109", "slug": "109" },
-          "attributesCount": 3,
+          "attributesCount": 2,
           "cssSelector": "#about > div.container > div.row.d-flex.align-items-center > div.col-lg-5.text-center.py-4.py-sm-0.aos-init > img.img-fluid",
           "dimensions": {
             "top": 1155.296875,
@@ -2540,7 +2541,7 @@
           "fingerprint": "sig3-3271952333993081",
           "pathSelector": "html > body > section:nth-child(4) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > img:nth-child(1)",
           "selector": "#about > div.container > div.row.d-flex.align-items-center > div.col-lg-5.text-center.py-4.py-sm-0.aos-init > img.img-fluid",
-          "snippet": "<img class=\"img-fluid\" src=\"./assets/images/about.jpg\" alt=\"about\">",
+          "snippet": "<img class=\"img-fluid\" src=\"./assets/images/about.jpg\">",
           "srcAttr": "./assets/images/about.jpg",
           "tag": "img",
           "type": "inapplicable",
@@ -13313,9 +13314,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate",
           "dimensions": {
             "top": 106.0078125,
-            "left": -13.075325012207031,
+            "left": -13.136253356933594,
             "bottom": 685.9921875,
-            "right": 1126.924674987793,
+            "right": 1126.8637466430664,
             "width": 1140,
             "height": 579.984375
           },
@@ -13340,9 +13341,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > h1.headline",
           "dimensions": {
             "top": 154.0078125,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 298.0078125,
-            "right": 1114.924674987793,
+            "right": 1114.8637466430664,
             "width": 1116,
             "height": 144
           },
@@ -13367,9 +13368,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > h1.headline > span.home_text",
           "dimensions": {
             "top": 133.0078125,
-            "left": 143.7059326171875,
+            "left": 143.64498901367188,
             "bottom": 247.0078125,
-            "right": 485.1668701171875,
+            "right": 485.1059265136719,
             "width": 341.4609375,
             "height": 114
           },
@@ -13394,9 +13395,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > h1.headline > br",
           "dimensions": {
             "top": 148.0078125,
-            "left": 485.1668701171875,
+            "left": 485.1059265136719,
             "bottom": 232.0078125,
-            "right": 485.1668701171875,
+            "right": 485.1059265136719,
             "width": 0,
             "height": 84
           },
@@ -13421,9 +13422,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > p.para.para-light.py-3",
           "dimensions": {
             "top": 306.0078125,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 434.0078125,
-            "right": 556.924674987793,
+            "right": 556.8637466430664,
             "width": 558,
             "height": 128
           },
@@ -13448,9 +13449,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(3)",
           "dimensions": {
             "top": 434.0078125,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 496,
-            "right": 1114.924674987793,
+            "right": 1114.8637466430664,
             "width": 1116,
             "height": 61.9921875
           },
@@ -13475,9 +13476,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(3) > p.p-2",
           "dimensions": {
             "top": 434.0078125,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 496,
-            "right": 41.58873748779297,
+            "right": 41.527809143066406,
             "width": 42.6640625,
             "height": 61.9921875
           },
@@ -13502,9 +13503,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(3) > p.p-2 > i.fas.fa-laptop-house.fa-lg",
           "dimensions": {
             "top": 442.0078125,
-            "left": 6.924674987792969,
+            "left": 6.863746643066406,
             "bottom": 488,
-            "right": 33.58873748779297,
+            "right": 33.527809143066406,
             "width": 26.6640625,
             "height": 45.9921875
           },
@@ -13529,9 +13530,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(3) > p:nth-child(2)",
           "dimensions": {
             "top": 453,
-            "left": 41.58873748779297,
+            "left": 41.527809143066406,
             "bottom": 477,
-            "right": 243.04186248779297,
+            "right": 242.9809341430664,
             "width": 201.453125,
             "height": 24
           },
@@ -13556,9 +13557,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(4)",
           "dimensions": {
             "top": 496,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 557.9921875,
-            "right": 1114.924674987793,
+            "right": 1114.8637466430664,
             "width": 1116,
             "height": 61.9921875
           },
@@ -13583,9 +13584,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(4) > p.p-2",
           "dimensions": {
             "top": 496,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 557.9921875,
-            "right": 41.58873748779297,
+            "right": 41.527809143066406,
             "width": 42.6640625,
             "height": 61.9921875
           },
@@ -13610,9 +13611,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(4) > p.p-2 > i.fas.fa-wifi.fa-lg",
           "dimensions": {
             "top": 504,
-            "left": 6.924674987792969,
+            "left": 6.863746643066406,
             "bottom": 549.9921875,
-            "right": 33.58873748779297,
+            "right": 33.527809143066406,
             "width": 26.6640625,
             "height": 45.9921875
           },
@@ -13637,9 +13638,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(4) > p:nth-child(2)",
           "dimensions": {
             "top": 514.9921875,
-            "left": 41.58873748779297,
+            "left": 41.527809143066406,
             "bottom": 538.9921875,
-            "right": 243.04186248779297,
+            "right": 242.9809341430664,
             "width": 201.453125,
             "height": 24
           },
@@ -13664,9 +13665,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div.my-3",
           "dimensions": {
             "top": 573.9921875,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 621.9921875,
-            "right": 1114.924674987793,
+            "right": 1114.8637466430664,
             "width": 1116,
             "height": 48
           },
@@ -13691,9 +13692,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div.my-3 > a.btn",
           "dimensions": {
             "top": 573.9921875,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 621.9921875,
-            "right": 141.31529998779297,
+            "right": 141.2543716430664,
             "width": 142.390625,
             "height": 48
           },
@@ -14132,7 +14133,7 @@
           "elementId": "about",
           "encodedContent": [
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 7, 1, 2, 1, 10, 0, 0, 6,
-            4, 4, 7, 3, 1, 5, 7, 7, 4, 2, 1, 0, 1, 0, 3, 3
+            4, 5, 7, 3, 1, 5, 7, 7, 4, 2, 1, 0, 1, 0, 3, 4
           ],
           "fingerprint": "sig3-1569114102632839",
           "pathSelector": "html > body > section:nth-child(4)",
@@ -14158,8 +14159,8 @@
           },
           "elementId": "",
           "encodedContent": [
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 7, 1, 2, 1, 10, 0, 0, 7,
-            4, 4, 7, 3, 1, 5, 7, 7, 4, 2, 1, 0, 1, 0, 3, 3
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 7, 1, 2, 1, 10, 0, 0, 6,
+            4, 4, 7, 3, 1, 5, 8, 7, 4, 2, 1, 0, 1, 0, 3, 3
           ],
           "fingerprint": "sig3-8528995150285098",
           "pathSelector": "html > body > section:nth-child(4) > div:nth-child(1)",
@@ -14186,7 +14187,7 @@
           "elementId": "",
           "encodedContent": [
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 7, 1, 2, 1, 10, 0, 0, 7,
-            4, 4, 6, 3, 1, 5, 8, 7, 5, 2, 0, 0, 1, 0, 3, 3
+            5, 4, 6, 3, 1, 5, 8, 7, 4, 2, 0, 0, 1, 0, 3, 3
           ],
           "fingerprint": "sig3-805491850817180",
           "pathSelector": "html > body > section:nth-child(4) > div:nth-child(1) > div:nth-child(1)",
@@ -14428,13 +14429,13 @@
           },
           "elementId": "",
           "encodedContent": [
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 6, 3, 2, 4, 1, 7, 0, 6, 3, 0, 5,
-            4, 0, 6, 3, 0, 2, 12, 11, 7, 0, 0, 0, 0, 0, 1, 3
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 3, 4, 2, 6, 2, 10, 0, 8, 4, 0, 3,
+            6, 0, 3, 4, 0, 2, 17, 6, 5, 0, 0, 0, 0, 0, 1, 4
           ],
           "fingerprint": "sig3-4098647047158375",
           "pathSelector": "html > body > section:nth-child(4) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2)",
           "selector": "#about > div.container > div.row.d-flex.align-items-center > div.col-lg-5.text-center.py-4.py-sm-0.aos-init",
-          "snippet": "<div class=\"col-lg-5 text-center py-4 py-sm-0 aos-init\" data-aos=\"fade-down\">...<img class=\"img-fluid\" src=\"./assets/images/about.jpg\" alt=\"about\"></div>",
+          "snippet": "<div class=\"col-lg-5 text-center py-4 py-sm-0 aos-init\" data-aos=\"fade-down\">...<img class=\"img-fluid\" src=\"./assets/images/about.jpg\"></div>",
           "srcAttr": "",
           "tag": "div",
           "type": "inapplicable",
@@ -14443,7 +14444,7 @@
         },
         {
           "rule": null,
-          "attributesCount": 3,
+          "attributesCount": 2,
           "cssSelector": "#about > div.container > div.row.d-flex.align-items-center > div.col-lg-5.text-center.py-4.py-sm-0.aos-init > img.img-fluid",
           "dimensions": {
             "top": 1155.296875,
@@ -14461,7 +14462,7 @@
           "fingerprint": "sig3-1082862196643248",
           "pathSelector": "html > body > section:nth-child(4) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > img:nth-child(1)",
           "selector": "#about > div.container > div.row.d-flex.align-items-center > div.col-lg-5.text-center.py-4.py-sm-0.aos-init > img.img-fluid",
-          "snippet": "<img class=\"img-fluid\" src=\"./assets/images/about.jpg\" alt=\"about\">",
+          "snippet": "<img class=\"img-fluid\" src=\"./assets/images/about.jpg\">",
           "srcAttr": "./assets/images/about.jpg",
           "tag": "img",
           "type": "inapplicable",
@@ -24850,7 +24851,7 @@
           "elementId": "about",
           "encodedContent": [
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 7, 1, 2, 1, 10, 0, 0, 6,
-            4, 4, 7, 3, 1, 5, 7, 7, 4, 2, 1, 0, 1, 0, 3, 3
+            4, 5, 7, 3, 1, 5, 7, 7, 4, 2, 1, 0, 1, 0, 3, 4
           ],
           "fingerprint": "sig3-6039101065511071",
           "pathSelector": "html > body > section:nth-child(4)",
@@ -25108,7 +25109,7 @@
           "elementId": "about",
           "encodedContent": [
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 7, 1, 2, 1, 10, 0, 0, 6,
-            4, 4, 7, 3, 1, 5, 7, 7, 4, 2, 1, 0, 1, 0, 3, 3
+            4, 5, 7, 3, 1, 5, 7, 7, 4, 2, 1, 0, 1, 0, 3, 4
           ],
           "fingerprint": "sig3-3985791630624406",
           "pathSelector": "html > body > section:nth-child(4)",
@@ -26983,9 +26984,9 @@
             "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div.my-3 > a.btn",
             "dimensions": {
               "top": 573.9921875,
-              "left": -1.0753250122070312,
+              "left": -1.1362533569335938,
               "bottom": 621.9921875,
-              "right": 141.31529998779297,
+              "right": 141.2543716430664,
               "width": 142.390625,
               "height": 48
             },
@@ -27334,14 +27335,43 @@
     {
       "count": {
         "reviewed": 13,
-        "passed": 13,
-        "violation": 0,
+        "passed": 12,
+        "violation": 1,
         "inapplicable": 0,
         "incomplete": 0
       },
-      "issues": [],
+      "issues": [
+        {
+          "rule": { "id": "89", "slug": "89" },
+          "attributesCount": 2,
+          "cssSelector": "#about > div.container > div.row.d-flex.align-items-center > div.col-lg-5.text-center.py-4.py-sm-0.aos-init > img.img-fluid",
+          "dimensions": {
+            "top": 1155.296875,
+            "left": 747,
+            "bottom": 1606.296875,
+            "right": 1198,
+            "width": 451,
+            "height": 451
+          },
+          "elementId": "",
+          "encodedContent": [
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "fingerprint": "sig3-4958367010387495",
+          "pathSelector": "html > body > section:nth-child(4) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > img:nth-child(1)",
+          "selector": "#about > div.container > div.row.d-flex.align-items-center > div.col-lg-5.text-center.py-4.py-sm-0.aos-init > img.img-fluid",
+          "snippet": "<img class=\"img-fluid\" src=\"./assets/images/about.jpg\">",
+          "srcAttr": "./assets/images/about.jpg",
+          "tag": "img",
+          "type": "violation",
+          "variant": "missingAlt",
+          "xpath": "//*[@id=\"about\"]/div[1]/div[1]/div[2]/img[1]",
+          "meta": { "attributes": {}, "state": { "isApplicable": true } }
+        }
+      ],
       "issuesGroup": {},
-      "outcome": "passed",
+      "outcome": "failed",
       "ruleId": "image-alt"
     },
     {
@@ -27359,8 +27389,8 @@
     },
     {
       "count": {
-        "reviewed": 13,
-        "passed": 13,
+        "reviewed": 12,
+        "passed": 12,
         "violation": 0,
         "inapplicable": 0,
         "incomplete": 0
@@ -27398,8 +27428,8 @@
     },
     {
       "count": {
-        "reviewed": 14,
-        "passed": 14,
+        "reviewed": 13,
+        "passed": 13,
         "violation": 0,
         "inapplicable": 0,
         "incomplete": 0
@@ -27669,9 +27699,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > h1.headline > br",
           "dimensions": {
             "top": 148.0078125,
-            "left": 485.1668701171875,
+            "left": 485.1059265136719,
             "bottom": 232.0078125,
-            "right": 485.1668701171875,
+            "right": 485.1059265136719,
             "width": 0,
             "height": 84
           },
@@ -27719,7 +27749,7 @@
         },
         {
           "rule": null,
-          "attributesCount": 3,
+          "attributesCount": 2,
           "cssSelector": "#about > div.container > div.row.d-flex.align-items-center > div.col-lg-5.text-center.py-4.py-sm-0.aos-init > img.img-fluid",
           "dimensions": {
             "top": 1155.296875,
@@ -27737,7 +27767,7 @@
           "fingerprint": "sig3-203925846360236",
           "pathSelector": "html > body > section:nth-child(4) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > img:nth-child(1)",
           "selector": "#about > div.container > div.row.d-flex.align-items-center > div.col-lg-5.text-center.py-4.py-sm-0.aos-init > img.img-fluid",
-          "snippet": "<img class=\"img-fluid\" src=\"./assets/images/about.jpg\" alt=\"about\">",
+          "snippet": "<img class=\"img-fluid\" src=\"./assets/images/about.jpg\">",
           "srcAttr": "./assets/images/about.jpg",
           "tag": "img",
           "type": "inapplicable",
@@ -29379,9 +29409,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div.my-3 > a.btn",
           "dimensions": {
             "top": 573.9921875,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 621.9921875,
-            "right": 141.31529998779297,
+            "right": 141.2543716430664,
             "width": 142.390625,
             "height": 48
           },
@@ -29918,9 +29948,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(3) > p.p-2",
           "dimensions": {
             "top": 434.0078125,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 496,
-            "right": 41.58873748779297,
+            "right": 41.527809143066406,
             "width": 42.6640625,
             "height": 61.9921875
           },
@@ -29945,9 +29975,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(4) > p.p-2",
           "dimensions": {
             "top": 496,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 557.9921875,
-            "right": 41.58873748779297,
+            "right": 41.527809143066406,
             "width": 42.6640625,
             "height": 61.9921875
           },
@@ -30075,7 +30105,7 @@
           "elementId": "about",
           "encodedContent": [
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 7, 1, 2, 1, 10, 0, 0, 6,
-            4, 4, 7, 3, 1, 5, 7, 7, 4, 2, 1, 0, 1, 0, 3, 3
+            4, 5, 7, 3, 1, 5, 7, 7, 4, 2, 1, 0, 1, 0, 3, 4
           ],
           "fingerprint": "sig3-5854676353054369",
           "pathSelector": "html > body > section:nth-child(4)",
@@ -31145,9 +31175,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate",
           "dimensions": {
             "top": 106.0078125,
-            "left": -13.075325012207031,
+            "left": -13.136253356933594,
             "bottom": 685.9921875,
-            "right": 1126.924674987793,
+            "right": 1126.8637466430664,
             "width": 1140,
             "height": 579.984375
           },
@@ -31172,9 +31202,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > h1.headline",
           "dimensions": {
             "top": 154.0078125,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 298.0078125,
-            "right": 1114.924674987793,
+            "right": 1114.8637466430664,
             "width": 1116,
             "height": 144
           },
@@ -31199,9 +31229,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > h1.headline > span.home_text",
           "dimensions": {
             "top": 133.0078125,
-            "left": 143.7059326171875,
+            "left": 143.64498901367188,
             "bottom": 247.0078125,
-            "right": 485.1668701171875,
+            "right": 485.1059265136719,
             "width": 341.4609375,
             "height": 114
           },
@@ -31226,9 +31256,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > h1.headline > br",
           "dimensions": {
             "top": 148.0078125,
-            "left": 485.1668701171875,
+            "left": 485.1059265136719,
             "bottom": 232.0078125,
-            "right": 485.1668701171875,
+            "right": 485.1059265136719,
             "width": 0,
             "height": 84
           },
@@ -31253,9 +31283,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > p.para.para-light.py-3",
           "dimensions": {
             "top": 306.0078125,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 434.0078125,
-            "right": 556.924674987793,
+            "right": 556.8637466430664,
             "width": 558,
             "height": 128
           },
@@ -31280,9 +31310,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(3)",
           "dimensions": {
             "top": 434.0078125,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 496,
-            "right": 1114.924674987793,
+            "right": 1114.8637466430664,
             "width": 1116,
             "height": 61.9921875
           },
@@ -31307,9 +31337,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(3) > p.p-2",
           "dimensions": {
             "top": 434.0078125,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 496,
-            "right": 41.58873748779297,
+            "right": 41.527809143066406,
             "width": 42.6640625,
             "height": 61.9921875
           },
@@ -31334,9 +31364,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(3) > p.p-2 > i.fas.fa-laptop-house.fa-lg",
           "dimensions": {
             "top": 442.0078125,
-            "left": 6.924674987792969,
+            "left": 6.863746643066406,
             "bottom": 488,
-            "right": 33.58873748779297,
+            "right": 33.527809143066406,
             "width": 26.6640625,
             "height": 45.9921875
           },
@@ -31361,9 +31391,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(3) > p:nth-child(2)",
           "dimensions": {
             "top": 453,
-            "left": 41.58873748779297,
+            "left": 41.527809143066406,
             "bottom": 477,
-            "right": 243.04186248779297,
+            "right": 242.9809341430664,
             "width": 201.453125,
             "height": 24
           },
@@ -31388,9 +31418,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(4)",
           "dimensions": {
             "top": 496,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 557.9921875,
-            "right": 1114.924674987793,
+            "right": 1114.8637466430664,
             "width": 1116,
             "height": 61.9921875
           },
@@ -31415,9 +31445,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(4) > p.p-2",
           "dimensions": {
             "top": 496,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 557.9921875,
-            "right": 41.58873748779297,
+            "right": 41.527809143066406,
             "width": 42.6640625,
             "height": 61.9921875
           },
@@ -31442,9 +31472,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(4) > p.p-2 > i.fas.fa-wifi.fa-lg",
           "dimensions": {
             "top": 504,
-            "left": 6.924674987792969,
+            "left": 6.863746643066406,
             "bottom": 549.9921875,
-            "right": 33.58873748779297,
+            "right": 33.527809143066406,
             "width": 26.6640625,
             "height": 45.9921875
           },
@@ -31469,9 +31499,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(4) > p:nth-child(2)",
           "dimensions": {
             "top": 514.9921875,
-            "left": 41.58873748779297,
+            "left": 41.527809143066406,
             "bottom": 538.9921875,
-            "right": 243.04186248779297,
+            "right": 242.9809341430664,
             "width": 201.453125,
             "height": 24
           },
@@ -31496,9 +31526,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div.my-3",
           "dimensions": {
             "top": 573.9921875,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 621.9921875,
-            "right": 1114.924674987793,
+            "right": 1114.8637466430664,
             "width": 1116,
             "height": 48
           },
@@ -31523,9 +31553,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div.my-3 > a.btn",
           "dimensions": {
             "top": 573.9921875,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 621.9921875,
-            "right": 141.31529998779297,
+            "right": 141.2543716430664,
             "width": 142.390625,
             "height": 48
           },
@@ -31964,7 +31994,7 @@
           "elementId": "about",
           "encodedContent": [
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 7, 1, 2, 1, 10, 0, 0, 6,
-            4, 4, 7, 3, 1, 5, 7, 7, 4, 2, 1, 0, 1, 0, 3, 3
+            4, 5, 7, 3, 1, 5, 7, 7, 4, 2, 1, 0, 1, 0, 3, 4
           ],
           "fingerprint": "sig3-8734623637426353",
           "pathSelector": "html > body > section:nth-child(4)",
@@ -31990,8 +32020,8 @@
           },
           "elementId": "",
           "encodedContent": [
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 7, 1, 2, 1, 10, 0, 0, 7,
-            4, 4, 7, 3, 1, 5, 7, 7, 4, 2, 1, 0, 1, 0, 3, 3
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 7, 1, 2, 1, 10, 0, 0, 6,
+            4, 4, 7, 3, 1, 5, 8, 7, 4, 2, 1, 0, 1, 0, 3, 3
           ],
           "fingerprint": "sig3-8807874579881952",
           "pathSelector": "html > body > section:nth-child(4) > div:nth-child(1)",
@@ -32018,7 +32048,7 @@
           "elementId": "",
           "encodedContent": [
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 1, 5, 5, 7, 1, 2, 1, 10, 0, 0, 7,
-            4, 4, 6, 3, 1, 5, 8, 7, 5, 2, 0, 0, 1, 0, 3, 3
+            5, 4, 6, 3, 1, 5, 8, 7, 4, 2, 0, 0, 1, 0, 3, 3
           ],
           "fingerprint": "sig3-6615495733545927",
           "pathSelector": "html > body > section:nth-child(4) > div:nth-child(1) > div:nth-child(1)",
@@ -32260,13 +32290,13 @@
           },
           "elementId": "",
           "encodedContent": [
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 6, 3, 2, 4, 1, 7, 0, 6, 3, 0, 5,
-            4, 0, 6, 3, 0, 2, 12, 11, 7, 0, 0, 0, 0, 0, 1, 3
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 3, 4, 2, 6, 2, 10, 0, 8, 4, 0, 3,
+            6, 0, 3, 4, 0, 2, 17, 6, 5, 0, 0, 0, 0, 0, 1, 4
           ],
           "fingerprint": "sig3-8244638226779793",
           "pathSelector": "html > body > section:nth-child(4) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2)",
           "selector": "#about > div.container > div.row.d-flex.align-items-center > div.col-lg-5.text-center.py-4.py-sm-0.aos-init",
-          "snippet": "<div class=\"col-lg-5 text-center py-4 py-sm-0 aos-init\" data-aos=\"fade-down\">...<img class=\"img-fluid\" src=\"./assets/images/about.jpg\" alt=\"about\"></div>",
+          "snippet": "<div class=\"col-lg-5 text-center py-4 py-sm-0 aos-init\" data-aos=\"fade-down\">...<img class=\"img-fluid\" src=\"./assets/images/about.jpg\"></div>",
           "srcAttr": "",
           "tag": "div",
           "type": "inapplicable",
@@ -32275,7 +32305,7 @@
         },
         {
           "rule": null,
-          "attributesCount": 3,
+          "attributesCount": 2,
           "cssSelector": "#about > div.container > div.row.d-flex.align-items-center > div.col-lg-5.text-center.py-4.py-sm-0.aos-init > img.img-fluid",
           "dimensions": {
             "top": 1155.296875,
@@ -32293,7 +32323,7 @@
           "fingerprint": "sig3-6648406263490645",
           "pathSelector": "html > body > section:nth-child(4) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > img:nth-child(1)",
           "selector": "#about > div.container > div.row.d-flex.align-items-center > div.col-lg-5.text-center.py-4.py-sm-0.aos-init > img.img-fluid",
-          "snippet": "<img class=\"img-fluid\" src=\"./assets/images/about.jpg\" alt=\"about\">",
+          "snippet": "<img class=\"img-fluid\" src=\"./assets/images/about.jpg\">",
           "srcAttr": "./assets/images/about.jpg",
           "tag": "img",
           "type": "inapplicable",
@@ -44548,9 +44578,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > h1.headline",
           "dimensions": {
             "top": 154.0078125,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 298.0078125,
-            "right": 1114.924674987793,
+            "right": 1114.8637466430664,
             "width": 1116,
             "height": 144
           },
@@ -44575,9 +44605,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > h1.headline > span.home_text",
           "dimensions": {
             "top": 133.0078125,
-            "left": 143.7059326171875,
+            "left": 143.64498901367188,
             "bottom": 247.0078125,
-            "right": 485.1668701171875,
+            "right": 485.1059265136719,
             "width": 341.4609375,
             "height": 114
           },
@@ -44602,9 +44632,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > p.para.para-light.py-3",
           "dimensions": {
             "top": 306.0078125,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 434.0078125,
-            "right": 556.924674987793,
+            "right": 556.8637466430664,
             "width": 558,
             "height": 128
           },
@@ -44629,9 +44659,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(3) > p:nth-child(2)",
           "dimensions": {
             "top": 453,
-            "left": 41.58873748779297,
+            "left": 41.527809143066406,
             "bottom": 477,
-            "right": 243.04186248779297,
+            "right": 242.9809341430664,
             "width": 201.453125,
             "height": 24
           },
@@ -44656,9 +44686,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div:nth-child(4) > p:nth-child(2)",
           "dimensions": {
             "top": 514.9921875,
-            "left": 41.58873748779297,
+            "left": 41.527809143066406,
             "bottom": 538.9921875,
-            "right": 243.04186248779297,
+            "right": 242.9809341430664,
             "width": 201.453125,
             "height": 24
           },
@@ -44683,9 +44713,9 @@
           "cssSelector": "#header > div.container.text-light.py-5.aos-init.aos-animate > div.my-3 > a.btn",
           "dimensions": {
             "top": 573.9921875,
-            "left": -1.0753250122070312,
+            "left": -1.1362533569335938,
             "bottom": 621.9921875,
-            "right": 141.31529998779297,
+            "right": 141.2543716430664,
             "width": 142.390625,
             "height": 48
           },
