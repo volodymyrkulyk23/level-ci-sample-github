@@ -30,4 +30,4 @@ export default {
  project: "level-ci-sample-github",
  token: process.env.LEVEL_CI_TOKEN,
  reportPaths: ['./level-ci-reports']
-} satisfies Config; 
+} satisfies Config;  
