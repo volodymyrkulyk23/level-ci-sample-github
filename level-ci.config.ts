@@ -8,7 +8,7 @@ export default {
   server: "https://api.dev.userway.dev",
   override: {
     "br1": {
-      targetBranch: "br2",
+      targetBranch: "main",
       scope: "delta",
     },
   },
