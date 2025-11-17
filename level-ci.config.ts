@@ -1,12 +1,12 @@
-// import type { Config } from "@level-ci/cli";
+import type { Config } from "@level-ci/cli";
 
-// export default {
-//   organization: "volodymyr-kulyk-32-userway-org-podss",
-//   project: "level-ci-sample-github",
-//   token: process.env.LEVEL_CI_TOKEN,
-//   reportPaths: ["./level-ci-reports"],
-//   server: "https://api.qa.userway.dev",
-// } satisfies Config; 
+export default {
+  organization: "volodymyr-kulyk-32-userway-org-podss",
+  project: "level-ci-sample-github",
+  token: process.env.LEVEL_CI_TOKEN,
+  reportPaths: ["./level-ci-reports"],
+  server: "https://api.qa.userway.dev",
+} satisfies Config; 
 
 //ngrok
 // import type { Config } from '@level-ci/cli'
@@ -24,10 +24,10 @@
 // } satisfies Config
 
 // PROD
-import type { Config } from "@level-ci/cli";
-export default {
- organization: "volodymyr-kulyk-1-levelaccess-com-clkuq",
- project: "level-ci-sample-github",
- token: process.env.LEVEL_CI_TOKEN,
- reportPaths: ['./level-ci-reports']
-} satisfies Config;  
+// import type { Config } from "@level-ci/cli";
+// export default {
+//  organization: "volodymyr-kulyk-1-levelaccess-com-clkuq",
+//  project: "level-ci-sample-github",
+//  token: process.env.LEVEL_CI_TOKEN,
+//  reportPaths: ['./level-ci-reports']
+// } satisfies Config;  
