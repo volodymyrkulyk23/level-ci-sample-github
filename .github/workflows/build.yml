@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - main
+      - br2
       - develop
       - "release/**"
       - "hotfix/**"

@@ -29,5 +29,12 @@ export default {
  organization: "volodymyr-kulyk-1-levelaccess-com-clkuq",
  project: "level-ci-sample-github",
  token: process.env.LEVEL_CI_TOKEN,
+ override: {
+  "br2": {
+    targetBranch: "main",
+    scope: "delta",
+    retention: 'long'
+  },
+},
  reportPaths: ['./level-ci-reports']
 } satisfies Config;
