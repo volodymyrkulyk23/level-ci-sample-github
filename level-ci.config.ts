@@ -1,11 +1,15 @@
 import type { Config } from "@level-ci/cli";
 
 export default {
-  organization: "volodymyr-kulyk-32-userway-org-podss",
-  project: "level-ci-sample-github",
+  organization: "volodymyr-kulyk-1-levelaccess-com-clkuq",
+  project: "evel-ci-sample-github",
   token: process.env.LEVEL_CI_TOKEN,
   reportPaths: ["./level-ci-reports"],
-  server: "https://staging.uw.ci.levelaccess.io",
+  override: {
+    "br12": {
+      scope: "delta",
+    },
+  },
 } satisfies Config;
 
 // ngrok
