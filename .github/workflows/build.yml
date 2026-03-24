@@ -6,9 +6,8 @@ on:
   push:
     branches:
       - main
-      - develop
-      - "release/**"
-      - "hotfix/**"
+      - br21
+      
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -29,7 +28,7 @@ jobs:
         run: npm run test:playwright
 
       - name: Level CI Accessibility Analysis
-        uses: levelaccess/level-ci@dev
+        uses: levelaccess/level-ci@main
         with:
           token: ${{ secrets.LEVEL_CI_TOKEN }}
           report_paths: './level-ci-reports'
