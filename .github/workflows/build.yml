@@ -7,6 +7,7 @@ on:
     branches:
       - main
       - develop
+      - br20
       - "release/**"
       - "hotfix/**"
 jobs:
@@ -29,7 +30,7 @@ jobs:
         run: npm run test:playwright
 
       - name: Level CI Accessibility Analysis
-        uses: levelaccess/level-ci@dev
+        uses: levelaccess/level-ci@dmain
         with:
           token: ${{ secrets.LEVEL_CI_TOKEN }}
           report_paths: './level-ci-reports'
